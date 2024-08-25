@@ -1,4 +1,4 @@
-# Azure-Iot-stream-analytics-project
+# Azure-IoT-stream-analytics-project
 This project demonstrates the use of Azure IoT Hub and Stream Analytics for real-time data processing. I simulate IoT data using a Raspberry Pi Azure IoT simulator and stream this data to Azure IoT Hub. The data is then processed using Azure Stream Analytics and stored in Azure Blob Storage for further analysis.
 
 ### 1. Setting Up Raspberry Pi Azure IoT Simulator
