@@ -49,7 +49,7 @@
 
 ## Conclusion
 
-This project showcases a basic IoT pipeline using Azure services to simulate, process, and store IoT data. It serves as a example for real-time data processing and can be extended with additional analytics, alerting, or visualization tools.
+This project showcases a basic IoT pipeline using Azure services to simulate, process, and store IoT data. It serves as a example for real-time data processing and can be extended with visualization tools.
 
 ## Future Enhancements
 
